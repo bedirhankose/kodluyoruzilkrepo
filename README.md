@@ -2,7 +2,7 @@
 
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-github.png
+![github](https://user-images.githubusercontent.com/41688971/179471050-3da46715-ec70-495e-8485-87c2d28c77a3.png)
 
 
 ## Installation
